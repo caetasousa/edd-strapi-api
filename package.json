@@ -13,6 +13,7 @@
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "^20.0.0",
     "@ckeditor/ckeditor5-react": "^2.1.0",
+    "i": "^0.3.7",
     "knex": "<0.20.0",
     "pg": "^8.7.1",
     "pg-connection-string": "^2.5.0",
@@ -25,6 +26,7 @@
     "strapi-plugin-graphql": "3.0.6",
     "strapi-plugin-upload": "3.0.6",
     "strapi-plugin-users-permissions": "3.0.6",
+    "strapi-provider-upload-cloudinary": "^3.6.8",
     "strapi-utils": "3.0.6"
   },
   "author": {
